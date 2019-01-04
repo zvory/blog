@@ -3,16 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+I'm currently a third year Computer Science student at the University of Waterloo. In this coming winter, I will be working at [Stripe](https://stripe.com).
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+In the summer, I worked as a backend developer (Ruby on Rails, PostgresQL, AWS, lots of DevOps-y stuff) on the Platform and Scalability team at [Influitive](https://influitive.com/). I did a lot of cool stuff there and learned a lot.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Before Influitive, I was a Frontend JS developer at [Rangle.io](https://rangle.io/). I worked heavily with Angular 4, Redux, RxJs/Observables, and TypeScript. I've experimented with React, and found that I quite like it.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Before that I worked at [Kik Interactive](http://www.kik.com) as a QA and Release Engineer. My first co-op was at [LEAGUE](http://league.com) as a Test Automation Engineer.
 
-
-[jekyll-organization]: https://github.com/jekyll
+I like fitness, technology, helping people, and building deep empathetic connections.
